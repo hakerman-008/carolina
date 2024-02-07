@@ -12,7 +12,7 @@ app.get('/kshitiz', async (req, res) => {
         url: 'https://adult-gpt.p.rapidapi.com/adultgpt',
         headers: {
             'content-type': 'application/json',
-            'X-RapidAPI-Key': '3fa82b3121msh60993f970f09819p15c22cjsncc0b065b5f1c',
+            'X-RapidAPI-Key': '0820ec24afmsh10d1bef860c3651p10e3f6jsn715a93754ace',
             'X-RapidAPI-Host': 'adult-gpt.p.rapidapi.com',
         },
         data: {
